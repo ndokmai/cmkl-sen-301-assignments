@@ -1,4 +1,4 @@
-# Assignment - Numeric Safety and Error Handling in Rust
+# Assignment 3 - Numeric Safety and Error Handling in Rust
 
 ## 1. Overview
 This assignment uses a toy version of a neural-network-style classifier. The program takes an input matrix, multiplies it by a weight matrix, reduces the result into scores, converts those scores into probabilities, and then classifies each result against a threshold.
